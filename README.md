@@ -1,4 +1,4 @@
-# Meeting Application using Javascript 
+# Peer to Peer Meeting Application using Javascript 
 ## This application can be used to conduct meeting in several Rooms at the same instance of time.
 # `https://meetingapp.rajarshidas1.repl.co`
 ## click on it and allow permission for microphone and camera, and boom!!!!!  🎉🎉🎉
