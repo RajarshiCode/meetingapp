@@ -1,9 +1,8 @@
-# [P2P-Video-Chat-Application](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/p2p-video-chat-application)
+# Meeting Application using Javascript 
+## This application can be used to conduct meeting in several Rooms at the same instance of time.
+# `https://meetingapp.rajarshidas1.repl.co`
+## click on it and allow permission for microphone and camera, and boom!!!!!  🎉🎉🎉
+## YOU ARE READY FOR THE MEETING AND ADD PEOPLE TO YOUR ROOM. 🌴🌴
 
-A project that was created for freeCodeCamp and acts as a P2P video chat app.
+## If you like it then do fork it, thank you 🎯🎯🎯
 
-## Resources
-
-[Inspiration](https://github.com/itstaranarora/video-chat-v1) \
-[Favicon Generator](https://favicon.io/favicon-generator/) \
-[RTCPeerConnection and Socket.io Help](https://github.com/jakub-leszczynski/video-calling-app-example)
